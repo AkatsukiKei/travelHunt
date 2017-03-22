@@ -1,0 +1,119 @@
+.bgColor-cyan{
+	background: #2ad2c9 !important;
+}
+.bgColor-white{
+	background: white;
+}
+.border-black{
+	border: 3px solid black !important;
+}
+.no-right-border{
+	border-right: none !important;
+}
+.active-button{
+	background-color: black !important;
+}
+.panel-content, .welcome, .about, .team, .contact, .destinations{
+	text-align: center;
+}
+.panel-title{
+	color: #2ad2c9;
+}
+.padding{
+	padding: 10px;
+}
+.padding-top{
+	padding-top: 30px;
+}
+.padding-bottom{
+	padding-bottom: 40px;
+}
+.color-white{
+	color: white;
+}
+.color-darkCyan{
+	color: #008B8B !important;
+}
+.color-cyan{
+	color: #2ad2c9 !important;
+}
+.bgImg1{
+	background: url('../images/banner1.jpg') no-repeat;
+	background-size: cover; 
+}
+.bgImg2{
+	background: url('../images/banner2.jpg') no-repeat;
+	background-size: cover;
+}
+.bgImg3{
+	background: url('../images/banner3.jpg') no-repeat;
+	background-size: cover;
+}
+.bgImg4{
+	background: url('../images/banner4.jpg') no-repeat;
+	background-size: cover;
+}
+.banner{
+	text-align: center;
+	height: 250px;
+}
+.banner-info{
+	padding-top: 25px;
+}
+.search{
+	padding: 0 10% 0 17%;
+}
+.search-input{
+	height: 29px;
+	border: none;
+}
+.no-radius{
+	border-radius: 0 !important;
+}
+.button-circle{
+	height: 60px;
+	width: 60px;
+	line-height: 70px;
+	border-radius: 50%;
+}
+.welcome h2,.about h2, .destinations h2{
+	padding-top: 40px;
+}
+.welcome-title,.about-title{
+	font-size: 20px;
+}
+.welcome-subtitle{
+	font-style: italic;
+}
+.welcome-button{
+	padding-bottom: 40px;
+}
+.thumb a{
+	border: 10px solid white;
+	width: 40%;
+}
+.thumb img, .about img, .team img{
+	width: 100%;
+}
+.about-info{
+	padding-bottom: 40px;
+}
+.team-photo{
+	display: block;
+	position: relative;
+}
+.team-detail{
+	height: 10%;
+	width: 95%;
+	bottom: 4%;
+	display: inline-block;
+	position: absolute;
+	right: 2.7%;
+	padding-top: 5%;
+}
+.destinations img{
+	width: 100%;
+}
+.destinations-images-group{
+	padding-top: 20px;
+}
